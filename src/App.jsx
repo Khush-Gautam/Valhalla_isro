@@ -128,7 +128,7 @@ function Header({ anyActive, viewMode, setViewMode, avgBefore, avgAfter }) {
           </div>
           <div>
             <h1 className="text-base font-semibold text-slate-100 leading-tight">
-              Urban Heat Intelligence System
+              UHIS
             </h1>
             <p className="text-[11px] font-mono text-slate-500">
                &middot; Heat hotspot detection &amp; cooling decision support
